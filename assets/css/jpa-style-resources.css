@@ -1,0 +1,20 @@
+table, tr, td, th {
+	border: 1px solid #2c2c2c;
+}
+table{
+	border-collapse: collapse;
+	margin: 2em auto;
+	width: 95%;
+}
+td, th {
+	padding: 0.5em;
+}
+img {
+	margin: auto;
+	width: 3em;
+	height: auto;
+	padding: 0 .5em;
+}
+p {
+	color: red;
+}
